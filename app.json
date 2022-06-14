@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Oxyloans",
+    "slug": "Oxyloans",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/oxy-loans.png",
+    "splash": {
+      "image": "./assets/oxy-loans.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/oxy-loans.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon23.png"
+    }
+  }
+}
